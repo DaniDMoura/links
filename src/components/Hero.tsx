@@ -25,7 +25,7 @@ const SOCIAL_LINKS = [
   },
   {
     href: "https://lattes.cnpq.br/7340361294745560",
-    label: "CV Lattes",
+    label: "Lattes",
     icon: <LattesIcon width={18} height={18} className="text-current icon-appearance" />,
   },
   {
